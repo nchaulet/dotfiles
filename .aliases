@@ -1,0 +1,10 @@
+# aliases
+
+# Navigation
+alias ..="cd .."
+alias ....="cd ../.."
+alias ......="cd ../../.."
+
+# Shortcuts
+alias dl="cd ~/Downloads"
+alias ws="cd ~/Workspace"
