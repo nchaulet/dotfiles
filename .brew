@@ -11,6 +11,8 @@ brew install git
 brew install bash-completion
 brew install ssh-copy-id
 brew install node
+brew install jq
+brew install hub
 
 # php
 brew tap josegonzalez/homebrew-php
