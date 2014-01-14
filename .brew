@@ -18,6 +18,7 @@ brew install hub
 brew tap homebrew/dupes
 brew tap josegonzalez/homebrew-php
 brew install php54
+brew install php54-intl
 
 # Install native apps
 brew tap phinze/homebrew-cask
