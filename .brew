@@ -15,6 +15,7 @@ brew install jq
 brew install hub
 
 # php
+brew tap homebrew/dupes
 brew tap josegonzalez/homebrew-php
 brew install php54
 
