@@ -13,6 +13,7 @@ brew install ssh-copy-id
 brew install node
 brew install jq
 brew install hub
+brew install wget
 
 # php
 brew tap homebrew/dupes
