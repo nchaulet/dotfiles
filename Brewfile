@@ -1,5 +1,3 @@
-#!/usr/bin/env bash
-
 # Update hombre itself
 update
 
@@ -11,10 +9,15 @@ install git
 install bash-completion
 install ssh-copy-id
 install node
+install jq
+install hub
+install wget
 
 # php
+tap homebrew/dupes
 tap josegonzalez/homebrew-php
 install php54
+install php54-intl
 
 # Install native apps
 tap phinze/homebrew-cask
@@ -25,6 +28,7 @@ cask install sublime-text
 cask install virtualbox
 cask install vagrant
 cask install vlc
+cask install iterm2
 
 # Clean 
 cleanup
