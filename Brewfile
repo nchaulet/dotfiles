@@ -12,6 +12,7 @@ install node
 install jq
 install hub
 install wget
+install ntfs-3g
 
 # php
 tap homebrew/dupes
