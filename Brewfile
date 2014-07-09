@@ -13,6 +13,7 @@ install jq
 install hub
 install wget
 install ntfs-3g
+install ansible
 
 # php
 tap homebrew/dupes
