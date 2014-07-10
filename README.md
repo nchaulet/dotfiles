@@ -8,3 +8,8 @@ install homebrew (and cask) forumulae
 brew bundle Brewfile
 ```
 
+## Oh my zsh
+
+```shell
+curl -L http://install.ohmyz.sh | sh
+```
