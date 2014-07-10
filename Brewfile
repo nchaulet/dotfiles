@@ -6,7 +6,7 @@ upgrade
 
 # Install Formula
 install git
-install bash-completion
+install zsh
 install ssh-copy-id
 install node
 install jq
