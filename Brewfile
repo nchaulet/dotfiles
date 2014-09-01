@@ -20,6 +20,7 @@ tap homebrew/dupes
 tap josegonzalez/homebrew-php
 install php54
 install php54-intl
+install homebrew/php/composer
 
 # Install native apps
 tap phinze/homebrew-cask
