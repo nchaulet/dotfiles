@@ -3,7 +3,7 @@ export ZSH=$HOME/.oh-my-zsh
 
 ZSH_THEME="robbyrussell"
 
-plugins=(git)
+plugins=(git, symfony2)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -16,5 +16,3 @@ if [[ -n $SSH_CONNECTION ]]; then
 else
    export EDITOR='mvim'
 fi
-
-alias sf="php app/console"
