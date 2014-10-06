@@ -32,6 +32,7 @@ cask install virtualbox
 cask install vagrant
 cask install vlc
 cask install iterm2
+cask install spectacle
 
 # Clean 
 cleanup
