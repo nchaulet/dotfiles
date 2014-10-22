@@ -14,6 +14,7 @@ install hub
 install wget
 install ntfs-3g
 install ansible
+install httpie
 
 # php
 tap homebrew/dupes
