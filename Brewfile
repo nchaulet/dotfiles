@@ -1,3 +1,4 @@
+python
 git
 zsh
 ssh-copy-id
