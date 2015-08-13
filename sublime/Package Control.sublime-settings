@@ -8,6 +8,10 @@
 		"Package Control",
 		"PHP Getters and Setters",
 		"PHP-Twig",
-		"PhpDoc"
+		"PhpDoc",
+		"PHP Companion",
+		"SideBarEnhancements",
+		"EditorConfig",
+		"Markdown Preview"
 	]
 }
