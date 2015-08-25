@@ -11,4 +11,3 @@ httpie
 php55
 homebrew/php/composer
 brew-cask
-boot2docker
