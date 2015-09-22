@@ -8,6 +8,6 @@ hub
 wget
 ansible
 httpie
-php55
-homebrew/php/composer
+php56
 brew-cask
+ncdu
