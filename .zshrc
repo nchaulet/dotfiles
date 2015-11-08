@@ -16,3 +16,11 @@ if [[ -n $SSH_CONNECTION ]]; then
 else
    export EDITOR='mvim'
 fi
+
+# nvm
+function chpwd() {
+  emulate -L zsh
+  if [[ -f .nvmrc ]] then
+    nvm use `cat .nvmrc`
+  fi
+}
