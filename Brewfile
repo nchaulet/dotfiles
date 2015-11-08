@@ -2,7 +2,7 @@ python
 git
 zsh
 ssh-copy-id
-node
+nvm
 jq
 hub
 wget
