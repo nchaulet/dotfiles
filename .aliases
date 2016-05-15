@@ -1,0 +1,9 @@
+# Navigation
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+
+# SIGNALS
+alias SIGTERM="kill -s SIGTERM"
+alias SIGKILL="kill -s SIGKILL"
+alias SIGINT="kill -s SIGINT"
